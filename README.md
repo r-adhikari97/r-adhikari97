@@ -1,4 +1,4 @@
-##OlA! Im Raj Adhikari 🌟  
+OlA! Im Raj Adhikari 🌟  
 
 - 💻 A fellow tech enthusiast with an unwavering passion for computers.  
 - 💿 Backend FTW!
