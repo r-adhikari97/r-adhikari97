@@ -1,7 +1,7 @@
 OlA! Im Raj Adhikari 🌟  
 
 - 💻 A fellow tech enthusiast with an unwavering passion for computers.  
-- 💿 Backend FTW!
+- 💿 Backend devloper
 - 🧙 Unraveling mysteries of binary code to the text you're reading,
 - 🌌 Obsessed with realms of electronics and IoT,  
 - 🤖 I'm captivated by the worlds of Machine learning and NLP.
