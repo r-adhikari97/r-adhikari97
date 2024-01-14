@@ -9,7 +9,7 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 - 💻 Computer Hardware Evangelist and Part-Time Overclocker  
 
 ## Projects Ive Worked upon  
-- 🌐 [Developer Space](https://github.com/r-adhikari97/Developer_Search.git)  A Django based forum for Developers to showcase thier work
+- 🌐 [Developer Search](https://github.com/r-adhikari97/Developer_Search.git)  A Django based forum for Developers to showcase thier work
 
 ## Links
 - 👜 [Linkedin](in/raj-adhikari-39a02129b) Lets connect and Work Professionally
