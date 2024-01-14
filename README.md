@@ -13,7 +13,7 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 
 ## Links
 - 👜 [Linkedin](in/raj-adhikari-39a02129b) Lets connect and Work Professionally
-- 📊 [HWBOT](https://hwbot.org/user/sarie_/) My Overclocker Records
+- 📊 [HWBOT](https://hwbot.org/user/sarie_/) My Overclocking Records
 
 🚀 Join me on this collaborative journey to build awesome projects together! Let's create something extraordinary! 💻🤝
 
