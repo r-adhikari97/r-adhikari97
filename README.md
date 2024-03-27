@@ -8,6 +8,9 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 - 🤖 Fascinated by the realms of Machine Learning and NLP
 - 💻 Computer Hardware Evangelist and Part-Time Overclocker  
 
+## Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=r-adhikari97)](https://git.io/streak-stats)
+
 ## Projects Ive Worked upon  
 - 📲 [Vikhed](https://github.com/r-adhikari97/Vikhed) A Real-time mobile application safeguarding citizens from fraudulent calls and SMS
 - 🚦 [Aalok](https://github.com/r-adhikari97/Aalok.git) A Visionless Traffic Monitoring System Utilising RF and Networking to solve Traffic Problems
