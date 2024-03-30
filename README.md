@@ -18,7 +18,7 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 - 👟 [Welocity](https://github.com/r-adhikari97/Welocity.git) A Java AWT-SWING based Sneaker Shopping Application for Windows
 
 ## Links
-- 👜 [Linkedin](in/raj-adhikari-39a02129b) Lets connect and Work Professionally
+- 👜 [Linkedin](https://www.linkedin.com/in/raj-adhikari-39a02129b/) Lets connect and Work Professionally
 - 📊 [HWBOT](https://hwbot.org/user/sarie_/) My Overclocking Records
 
 🚀 Join me on this collaborative journey to build awesome projects together! Let's create something extraordinary! 💻🤝
