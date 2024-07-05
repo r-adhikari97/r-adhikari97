@@ -17,6 +17,9 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 - 🌐 [Developer Search](https://github.com/r-adhikari97/Developer_Search.git)  A Django based forum for Developers to showcase thier work
 - 👟 [Welocity](https://github.com/r-adhikari97/Welocity.git) A Java AWT-SWING based Sneaker Shopping Application for Windows
 
+## Experimenataion 
+-  📊 [Scratch ML](https://github.com/r-adhikari97/ScratchML.git) Buidling ML Models from scratch using Numpy
+
 ## Links
 - 👜 [Linkedin](https://www.linkedin.com/in/raj-adhikari-39a02129b/) Lets connect and Work Professionally
 - 📊 [HWBOT](https://hwbot.org/user/sarie_/) My Overclocking Records
