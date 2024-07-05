@@ -12,7 +12,7 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r-adhikari97)](https://git.io/streak-stats)
 
 ## Projects Ive Worked upon  
-- 📲 [Vikhed](https://github.com/r-adhikari97/Vikhed) A Real-time mobile application safeguarding citizens from fraudulent calls and SMS
+- 📲 [Vikhed](https://github.com/r-adhikari97/Vikhed) A Django Rest Frameowkr based API for Real-time mobile application safeguarding citizens from fraudulent calls and SMS
 - 🚦 [Aalok](https://github.com/r-adhikari97/Aalok.git) A Visionless Traffic Monitoring System Utilising RF and Networking to solve Traffic Problems
 - 🌐 [Developer Search](https://github.com/r-adhikari97/Developer_Search.git)  A Django based forum for Developers to showcase thier work
 - 👟 [Welocity](https://github.com/r-adhikari97/Welocity.git) A Java AWT-SWING based Sneaker Shopping Application for Windows
