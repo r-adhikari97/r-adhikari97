@@ -11,14 +11,18 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 ## Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=r-adhikari97)](https://git.io/streak-stats)
 
-## Projects Ive Worked upon  
+## End-to-End Projects Ive Worked upon  
 - 📲 [Vikhed](https://github.com/r-adhikari97/Vikhed) A Django based REST API for Real-time mobile application safeguarding citizens from fraudulent calls and SMS
 - 🚦 [Aalok](https://github.com/r-adhikari97/Aalok.git) A Visionless Traffic Monitoring System Utilising RF and Networking to solve Traffic Problems
 - 🌐 [Developer Search](https://github.com/r-adhikari97/Developer_Search.git)  A Django based forum for Developers to showcase thier work
 - 👟 [Welocity](https://github.com/r-adhikari97/Welocity.git) A Java AWT-SWING based Sneaker Shopping Application for Windows
 
-## Experimenataion 
+
+## ML and Experimentation
 -  📊 [Scratch ML](https://github.com/r-adhikari97/ScratchML.git) Buidling ML Models from scratch using Numpy
+-  🏏 [Wicket Mania](https://github.com/r-adhikari97/Wicket_Mania) A Cricket Matchh prediciting model setup on streamlit
+-  🎥 [Movie: Sentiment Analysis](https://github.com/r-adhikari97/Movie-Classification-NLP) review sentiment analysis model
+  
 
 ## Links
 - 👜 [Linkedin](https://www.linkedin.com/in/raj-adhikari-39a02129b/) Lets connect and Work Professionally
