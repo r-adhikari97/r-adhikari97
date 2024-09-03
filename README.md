@@ -22,6 +22,7 @@ I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome
 -  📊 [Scratch ML](https://github.com/r-adhikari97/ScratchML.git) Buidling ML Models from scratch using Numpy
 -  🏏 [Wicket Mania](https://github.com/r-adhikari97/Wicket_Mania) A Cricket Matchh prediciting model setup on streamlit
 -  🎥 [Movie: Sentiment Analysis](https://github.com/r-adhikari97/Movie-Classification-NLP) review sentiment analysis model
+    and lot more!
   
 
 ## Links
