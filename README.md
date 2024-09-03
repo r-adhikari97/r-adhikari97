@@ -2,7 +2,7 @@
 I am Raj Adhikari , A Programmer and Tech enthusiast from Mumbai India ! Welcome to my Repository, I delve into the domain of Computation, Unraveling mysteries of binary code to the text you're reading  🌌
 
 ## About Me
-- 🎓 Final Year BSc Information and Technology student at VSIT Mumbai
+- 🎓 BSc Information and Technology graduate from VSIT Mumbai (2024)
 - 📚 Backend Developer: Python, Django, and Java
 - 🛠️ Passionate about Embedded Systems: Arduino enthusiast
 - 🤖 Fascinated by the realms of Machine Learning and NLP
